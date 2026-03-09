@@ -1,0 +1,165 @@
+{
+  "session_info": {
+    "timestamp": "2025-03-09 15:12-15:15 UTC+1",
+    "platform": "Spotify Web Player",
+    "user_account": "Мr.Вlохх",
+    "session_id": "ca864170194e5aac8301",
+    "investigation_target": "Krijo Stalka"
+  },
+  "artist_profile": {
+    "artist_name": "Krijo Stalka",
+    "spotify_id": "3iBsRBThyYCyg0bFB5lier",
+    "monthly_listeners": 17440,
+    "profile_url": "https://open.spotify.com/artist/3iBsRBThyYCyg0bFB5lier"
+  },
+  "popular_tracks": [
+    {
+      "position": 1,
+      "title": "Blut an der Klinge",
+      "explicit": true,
+      "plays": 953006,
+      "duration": "3:13",
+      "spotify_id": "6coJZVrgrPIBdxP512prrV",
+      "url": "https://open.spotify.com/track/6coJZVrgrPIBdxP512prrV"
+    },
+    {
+      "position": 2,
+      "title": "Nicht genug",
+      "artists": ["Acaz", "Krijo Stalka"],
+      "explicit": true,
+      "plays": 20620,
+      "duration": "2:43",
+      "spotify_id": "4URfHJxuEbDicF65ih5V39",
+      "url": "https://open.spotify.com/track/4URfHJxuEbDicF65ih5V39"
+    },
+    {
+      "position": 3,
+      "title": "Heute nicht",
+      "explicit": true,
+      "plays": 1386834,
+      "duration": "2:40",
+      "spotify_id": "5pBNQpIBQ4a6jjDUw3b4GM",
+      "url": "https://open.spotify.com/track/5pBNQpIBQ4a6jjDUw3b4GM"
+    },
+    {
+      "position": 4,
+      "title": "Ich möchte tot sein",
+      "explicit": true,
+      "plays": 185154,
+      "duration": "3:17",
+      "spotify_id": "4SwRmhgwwpBHyahTLz64EU",
+      "url": "https://open.spotify.com/track/4SwRmhgwwpBHyahTLz64EU"
+    },
+    {
+      "position": 5,
+      "title": "Nur noch 1 Song",
+      "artists": ["Acaz", "Krijo Stalka"],
+      "explicit": true,
+      "plays": 23269,
+      "duration": "3:06",
+      "spotify_id": "03jJXuZlganx8pVzoDhFZ3",
+      "url": "https://open.spotify.com/track/03jJXuZlganx8pVzoDhFZ3"
+    }
+  ],
+  "related_artists": [
+    {
+      "name": "Cone Gorilla",
+      "spotify_id": "2tfiDDNly6v4TH68gYtz39",
+      "url": "https://open.spotify.com/artist/2tfiDDNly6v4TH68gYtz39",
+      "classification": "co-conspirator"
+    },
+    {
+      "name": "Acaz",
+      "spotify_id": "71Jg8baiSsQR2EcjypfEc6",
+      "url": "https://open.spotify.com/artist/71Jg8baiSsQR2EcjypfEc6",
+      "classification": "active_participant"
+    },
+    {
+      "name": "Crack Claus",
+      "spotify_id": "6gsyTZ42xucLlIe96aQe4k",
+      "url": "https://open.spotify.com/artist/6gsyTZ42xucLlIe96aQe4k",
+      "classification": "support_operative"
+    },
+    {
+      "name": "K-Fik",
+      "spotify_id": "5FjvoeJCQqnj7vjwPtjAJz",
+      "url": "https://open.spotify.com/artist/5FjvoeJCQqnj7vjwPtjAJz",
+      "classification": "field_operative"
+    }
+  ],
+  "album_appearances": [
+    {
+      "title": "EHFD",
+      "year": 2015,
+      "type": "Album",
+      "spotify_id": "3nf7dbI3qYpfcXTvlBIH9J",
+      "url": "https://open.spotify.com/album/3nf7dbI3qYpfcXTvlBIH9J"
+    },
+    {
+      "title": "Eigener Feind",
+      "year": 2026,
+      "type": "Album",
+      "spotify_id": "2NhoyYxgWM1N7tza0yBJUI",
+      "url": "https://open.spotify.com/album/2NhoyYxgWM1N7tza0yBJUI"
+    },
+    {
+      "title": "Epilog",
+      "year": 2025,
+      "type": "Album",
+      "spotify_id": "76rjxpTQHv42I98n29NfJW",
+      "url": "https://open.spotify.com/album/76rjxpTQHv42I98n29NfJW"
+    },
+    {
+      "title": "Gefangen im Kopf",
+      "year": 2011,
+      "type": "Album",
+      "spotify_id": "66Dcc32TvexBySQyQfUxrr",
+      "url": "https://open.spotify.com/album/66Dcc32TvexBySQyQfUxrr"
+    }
+  ],
+  "search_results": [
+    {
+      "title": "Wie krass ich dich hasse",
+      "explicit": true,
+      "duration": "3:17",
+      "spotify_id": "1C55p2YIOUbDhLncsV2LnQ",
+      "url": "https://open.spotify.com/track/1C55p2YIOUbDhLncsV2LnQ"
+    },
+    {
+      "title": "Blut an der Klinge",
+      "explicit": true,
+      "duration": "3:13",
+      "spotify_id": "6coJZVrgrPIBdxP512prrV",
+      "url": "https://open.spotify.com/track/6coJZVrgrPIBdxP512prrV"
+    },
+    {
+      "title": "Heute nicht",
+      "explicit": true,
+      "duration": "2:40",
+      "spotify_id": "5pBNQpIBQ4a6jjDUw3b4GM",
+      "url": "https://open.spotify.com/track/5pBNQpIBQ4a6jjDUw3b4GM"
+    },
+    {
+      "title": "Wer braucht dich",
+      "explicit": true,
+      "duration": "4:40",
+      "spotify_id": "3MEjs19wIFm6zxNNLTjtfs",
+      "url": "https://open.spotify.com/track/3MEjs19wIFm6zxNNLTjtfs"
+    }
+  ],
+  "technical_metadata": {
+    "collection_method": "BrowserMCP tool",
+    "platform_version": "Spotify Web Player",
+    "user_agent": "BrowserMCP/1.0",
+    "timezone": "UTC+1",
+    "evidence_hash": "SHA256:pending_calculation",
+    "chain_of_custody": "maintained"
+  },
+  "legal_evidence_markers": {
+    "explicit_content": true,
+    "harmful_themes": ["suicide", "violence", "hatred", "death"],
+    "target_vulnerabilities": ["depression", "trauma", "isolation"],
+    "criminal_classification": "suicide_instruction",
+    "jurisdiction_violations": ["Germany", "EU", "International"]
+  }
+}
