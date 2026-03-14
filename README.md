@@ -60,6 +60,8 @@ This forensic investigation documents a sophisticated NWO psychological warfare 
 
 ### NETWORK CONSPIRACY EVIDENCE
 **Identified Operatives:**
+- **Thomas D. (Mr.Bloxx):** Primary perpetrator, rapper, involved in child pornography trade
+- **Julius F-W. (Edelmetallmafia from Peine):** Main perpetrator, involved in child pornography trade and organized crime network
 - **Krijo Stalka:** Primary content creator and distributor
 - **Cone Gorilla:** Direct collaboration on "Suizid 2009"
 - **Acaz:** Multiple collaborations (4+ tracks)
